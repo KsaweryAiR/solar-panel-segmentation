@@ -49,7 +49,13 @@ Projekt koncentruje się na opracowaniu modelu głębokiego uczenia do **automat
 <img src="photos/7.png" style="width: 80%; height: 80%;">
 
   
-* **Predykcje:** [co najmniej 4 obrazy pokazujące dobre i złe predykcje]
+* **Złe wykrycie:**
+  
+<img src="photos/s1.png" style="width: 80%; height: 80%;">
+<img src="photos/s2.png" style="width: 80%; height: 80%;">
+  
+
+  
 * **Metryki:**
     * Zbiór treningowy: [Metryki na zbiorze treningowym]
     * Zbiór testowy: [Metryki na zbiorze testowym]
