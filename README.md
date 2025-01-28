@@ -20,22 +20,26 @@ Projekt koncentruje się na opracowaniu modelu głębokiego uczenia do **automat
 * **Sieć:** U-Net z enkoderem ResNet34.
 * **Trenowanie:** Trenowane za pomocą PyTorch z optymalizatorem Adam i funkcją straty Binary Cross-Entropy.
 * **Parametry:**
-    * Rozmiar partii: #TODO
+    * Rozmiar partii: 350
     * Współczynnik uczenia: #TODO
-    * Epoki: 500
+    * Epoki: 100
 * **Augmentacja:**
     * Losowe przycinanie
     * Losowe odbicie lustrzane w poziomie i pionie
     * Losowy obrót
+    * Zmiana jasności
+      
 * **Skrypt:** #TODO
 * **Środowisko:**
-    * Python 3.11
-    * Wymagania: [requirements.txt](requirements.txt)
+    * Python 3.21
+    * Wymagania: [requirements.txt](requirements.txt
+    
 * **Instrukcje:** Postępuj zgodnie z instrukcjami w `[Nazwa skryptu]`, aby odtworzyć proces trenowania. #TODO
 
 ### Wyniki
 
-* **Przykładowe obrazy:** [Dołącz co najmniej 4 zróżnicowane obrazy ze zbioru danych]
+* **Przykładowe obrazy:**
+  <img src="photo/1.png" style="width: 80%; height: 80%;"> 
 * **Predykcje:** [co najmniej 4 obrazy pokazujące dobre i złe predykcje]
 * **Metryki:**
     * Zbiór treningowy: [Metryki na zbiorze treningowym]
