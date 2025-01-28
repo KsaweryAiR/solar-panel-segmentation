@@ -50,7 +50,10 @@ Projekt koncentruje się na opracowaniu modelu głębokiego uczenia do **automat
 
   
 * **Złe wykrycie:**
-  
+* 
+Model czasami napotyka trudności w rozpoznawaniu szklarni, niektórych fragmentów ciemnych dachów oraz samochodów.
+Najbardziej obawialiśmy się problemów z rozróżnianiem okien dachowych, ponieważ na zdjęciach satelitarnych mogą przypominać panele fotowoltaiczne. Jednak nasz model skutecznie radzi sobie z ich odróżnianiem.
+
 <img src="photos/s1.png" style="width: 80%; height: 80%;">
 <img src="photos/s2.png" style="width: 80%; height: 80%;">
   
