@@ -38,9 +38,15 @@ Projekt koncentruje się na opracowaniu modelu głębokiego uczenia do **automat
 
 ### Wyniki
 
-* **Przykładowe obrazy:**
-* 
-  <img src="photos/1.png" style="width: 80%; height: 80%;">
+* **Dobre wykrycie:**
+
+<img src="photos/1.png" style="width: 80%; height: 80%;">
+<img src="photos/2.png" style="width: 80%; height: 80%;">
+<img src="photos/3.png" style="width: 80%; height: 80%;">
+<img src="photos/4.png" style="width: 80%; height: 80%;">
+<img src="photos/5.png" style="width: 80%; height: 80%;">
+<img src="photos/6.png" style="width: 80%; height: 80%;">
+<img src="photos/7.png" style="width: 80%; height: 80%;">
 
   
 * **Predykcje:** [co najmniej 4 obrazy pokazujące dobre i złe predykcje]
