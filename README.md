@@ -29,9 +29,8 @@ Projekt koncentruje się na opracowaniu modelu głębokiego uczenia do **automat
     * Losowy obrót
     * Zmiana jasności
       
-* **Skrypt:** #TODO
 * **Środowisko:**
-    * Python 3.21
+    * Python 3.12
     * Wymagania: [requirements.txt](requirements.txt
     
 * **Instrukcje:** Postępuj zgodnie z instrukcjami w `[Nazwa skryptu]`, aby odtworzyć proces trenowania. #TODO
@@ -67,9 +66,8 @@ Najbardziej obawialiśmy się problemów z rozróżnianiem okien dachowych, poni
 
 ### Wytrenowany model w ONNX
 
-* **Model:** [Link do modelu ONNX]
+* **Model:** Folder ONNX
 * **Format:** ONNX z metadanymi Deepness (rozdzielczość przestrzenna, progi).
-* **Skrypt konwersji:** `[Nazwa skryptu]`
 
 ### Demo
 
@@ -81,7 +79,3 @@ Najbardziej obawialiśmy się problemów z rozróżnianiem okien dachowych, poni
 * Antonina Frąckowiak
 * Ksawery Giera
 * Daniel Błaszkiewicz
-
-### Inne informacje
-
-* TODO DODATKOWE INFO (JEŚLI CHCEMY)
