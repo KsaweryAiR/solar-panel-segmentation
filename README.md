@@ -39,7 +39,9 @@ Projekt koncentruje się na opracowaniu modelu głębokiego uczenia do **automat
 ### Wyniki
 
 * **Dobre wykrycie:**
-
+  
+**Wideo:** https://youtu.be/g4D_EFdLHG0?si=63SvEFi4WHk7xS2h
+  
 <img src="photos/1.png" style="width: 80%; height: 80%;">
 <img src="photos/2.png" style="width: 80%; height: 80%;">
 <img src="photos/3.png" style="width: 80%; height: 80%;">
@@ -71,7 +73,6 @@ Najbardziej obawialiśmy się problemów z rozróżnianiem okien dachowych, poni
 
 ### Demo
 
-* **Wideo:** https://youtu.be/g4D_EFdLHG0?si=63SvEFi4WHk7xS2h
 * **Ortofotomapa:** Poznan 2022 aerial ortophoto high resolution
 * **Lokalizacja:** zachodnia część Poznania, na zachód rzeki Warty. Wrocław, Biskupin i okolice
 
