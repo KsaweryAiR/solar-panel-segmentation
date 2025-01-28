@@ -50,7 +50,7 @@ Projekt koncentruje się na opracowaniu modelu głębokiego uczenia do **automat
 
   
 * **Złe wykrycie:**
-* 
+  
 Model czasami napotyka trudności w rozpoznawaniu szklarni, niektórych fragmentów ciemnych dachów oraz samochodów.
 Najbardziej obawialiśmy się problemów z rozróżnianiem okien dachowych, ponieważ na zdjęciach satelitarnych mogą przypominać panele fotowoltaiczne. Jednak nasz model skutecznie radzi sobie z ich odróżnianiem.
 
@@ -73,7 +73,7 @@ Najbardziej obawialiśmy się problemów z rozróżnianiem okien dachowych, poni
 
 * **Wideo:** [Link do filmu demonstracyjnego/GIF]
 * **Ortofotomapa:** Poznan 2022 aerial ortophoto high resolution
-* **Lokalizacja:** zachodnia część Poznania, na zachód rzeki Warty
+* **Lokalizacja:** zachodnia część Poznania, na zachód rzeki Warty. Wrocław, Biskupin i okolice
 
 ### Osoby
 
