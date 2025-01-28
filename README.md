@@ -71,7 +71,7 @@ Najbardziej obawialiśmy się problemów z rozróżnianiem okien dachowych, poni
 
 ### Demo
 
-* **Wideo:** [Link do filmu demonstracyjnego/GIF]
+* **Wideo:** https://youtu.be/AIn-uMCmkt4?si=5er29f-3wtEy8HcQ
 * **Ortofotomapa:** Poznan 2022 aerial ortophoto high resolution
 * **Lokalizacja:** zachodnia część Poznania, na zachód rzeki Warty. Wrocław, Biskupin i okolice
 
