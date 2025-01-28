@@ -39,7 +39,7 @@ Projekt koncentruje się na opracowaniu modelu głębokiego uczenia do **automat
 
 * **Dobre wykrycie:**
   
-**Wideo:** https://youtu.be/g4D_EFdLHG0?si=63SvEFi4WHk7xS2h
+**Wideo:** [https://youtu.be/g4D_EFdLHG0?si=63SvEFi4WHk7xS2h](https://www.youtube.com/watch?v=EItXpzcvu2k)
   
 <img src="photos/1.png" style="width: 80%; height: 80%;">
 <img src="photos/2.png" style="width: 80%; height: 80%;">
