@@ -31,7 +31,7 @@ Projekt koncentruje się na opracowaniu modelu głębokiego uczenia do **automat
       
 * **Środowisko:**
     * Python 3.12
-    * Wymagania: [requirements.txt](requirements.txt
+    * Wymagania: [requirements.txt](requirements.txt)
     
 * **Instrukcje:** Postępuj zgodnie z instrukcjami w `[Nazwa skryptu]`, aby odtworzyć proces trenowania. #TODO
 
@@ -120,8 +120,8 @@ python output_model.py
 ---
 
 ### **5️⃣ Wykorzystanie modelu w QGIS**  
-Otrzymany plik **ONNX** można załadować do **QGIS** i wykorzystać w **wtyczce Deepness** do segmentacji paneli fotowoltaicznych.  
-
+Po wygenerowaniu pliku w formacie ONNX, możesz załadować go do QGIS i przeprowadzić segmentację paneli fotowoltaicznych przy użyciu wtyczki Deepness.
+  
 ---
 
 ## 📦 Wymagania  
