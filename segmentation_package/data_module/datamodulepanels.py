@@ -23,7 +23,8 @@ class PanelsDataModule(pl.LightningDataModule):
         ])
 
     def setup(self, stage=None):
-        dataset_path = Path("path/to/your/dataset")
+         # TO DO: Replace the path with your dataset path
+        dataset_path = Path("path/to/your/dataset") # <-- Replace this line with your dataset path
         train_paths = sorted((dataset_path / 'train' / 'images').glob('*.png'))
         test_paths = sorted((dataset_path / 'test' / 'images').glob('*.png'))
 
