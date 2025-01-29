@@ -9,7 +9,7 @@ if __name__ == "__main__":
     data_module.setup()
 
     # Wybierz model
-    checkpoint_path = "lightning_logs/version_19/checkpoints/epoch=170-val_loss=0.15-val_BinaryF1Score=0.85.ckpt"
+    checkpoint_path = "checkpoint/path"
     model = LitModel.load_from_checkpoint(checkpoint_path).eval().cpu()
     x = torch.rand(1, 3, 256, 256)
     _ = model(x)
