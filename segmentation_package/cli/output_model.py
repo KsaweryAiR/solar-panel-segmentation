@@ -1,8 +1,8 @@
 import json
 import onnx
 
-model_name = 'model_ver15.onnx'
-model = onnx.load(model_name)
+model_path = 'path/to/your/model'
+model = onnx.load(model_path)
 
 class_names = {
     0: '_background',
