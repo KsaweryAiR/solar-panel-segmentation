@@ -1,0 +1,11 @@
+torch
+torchvision
+lightning neptune
+segmentation-models-pytorch
+torchmetrics
+numpy
+albumentations
+opencv-python
+matplotlib
+Pillow
+scikit-learn
