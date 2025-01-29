@@ -61,8 +61,9 @@ Najbardziej obawialiśmy się problemów z rozróżnianiem okien dachowych, poni
 
   
 * **Metryki:**
-    * Zbiór treningowy: [Metryki na zbiorze treningowym]
-    * Zbiór testowy: [Metryki na zbiorze testowym]
+    * F1-score: 0.81
+    * Precision: 0.87
+    * Recall: 0.75
 
 ### Wytrenowany model w ONNX
 
