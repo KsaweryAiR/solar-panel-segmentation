@@ -13,7 +13,6 @@ Projekt koncentruje się na opracowaniu modelu głębokiego uczenia do **automat
     * Zbiór danych został podzielony na zbiory treningowe i testowe.
 * **Przechowywanie:** [Odnośnik do zbioru danych](https://drive.google.com/drive/folders/1omvS3l6GGmVazqJ8FP0KWdyu66Pk_7I-?usp=sharing)
 * **Format:** Obrazy w formacie PNG, maski w formacie PNG.
-* **Ładowanie:** #TODO
 
 ### Trenowanie
 
@@ -21,7 +20,6 @@ Projekt koncentruje się na opracowaniu modelu głębokiego uczenia do **automat
 * **Trenowanie:** Trenowane za pomocą PyTorch z optymalizatorem Adam i funkcją straty Binary Cross-Entropy.
 * **Parametry:**
     * Rozmiar partii: 350
-    * Współczynnik uczenia: #TODO
     * Epoki: 100
 * **Augmentacja:**
     * Losowe przycinanie
@@ -33,7 +31,6 @@ Projekt koncentruje się na opracowaniu modelu głębokiego uczenia do **automat
     * Python 3.12
     * Wymagania: [requirements.txt](requirements.txt)
     
-* **Instrukcje:** Postępuj zgodnie z instrukcjami w `[Nazwa skryptu]`, aby odtworzyć proces trenowania. #TODO
 
 ### Wyniki
 
