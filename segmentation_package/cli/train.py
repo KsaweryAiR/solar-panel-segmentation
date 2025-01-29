@@ -18,7 +18,7 @@ if __name__ == "__main__":
     trainer = pl.Trainer(
         accelerator='gpu',
         callbacks=[checkpoint_callback],
-        max_epochs=5
+        max_epochs=100
     )
 
     trainer.fit(model, datamodule=data_module)
