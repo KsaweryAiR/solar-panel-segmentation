@@ -11,7 +11,7 @@ Projekt koncentruje się na opracowaniu modelu głębokiego uczenia do **automat
     * Panele słoneczne zostały ręcznie oznaczone za pomocą Roboflow.
     * Obrazy zostały przeskalowane do 400x400 pikseli.
     * Zbiór danych został podzielony na zbiory treningowe i testowe.
-* **Przechowywanie:** [Odnośnik do zbioru danych](https://drive.google.com/drive/folders/11ptMzoiv22ziqJZgnMNuydakWCt2jOsu)
+* **Przechowywanie:** [Odnośnik do zbioru danych](https://drive.google.com/drive/folders/1omvS3l6GGmVazqJ8FP0KWdyu66Pk_7I-?usp=sharing)
 * **Format:** Obrazy w formacie PNG, maski w formacie PNG.
 * **Ładowanie:** #TODO
 
