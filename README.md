@@ -1,4 +1,3 @@
-![Przykład predykcji modelu](https://github.com/KsaweryAiR/solar-panel-segmentation/blob/main/photos/2.png?raw=true)
 ## ZPO Project - Segmentacja paneli słonecznych
 
 Projekt koncentruje się na opracowaniu modelu głębokiego uczenia do **automatycznej segmentacji paneli słonecznych** z map o wysokiej rozdzielczośći. Model jest trenowany na niestandardowym zbiorze danych obrazów ortofotomapy Poznania z 2022 roku i odpowiadających im masek, przygotowanych za pomocą QGIS i Roboflow. Wytrenowany model jest następnie konwertowany do formatu ONNX w celu integracji z wtyczką Deepness w QGIS.
