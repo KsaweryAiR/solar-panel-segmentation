@@ -23,9 +23,7 @@ class PanelsDataModule(pl.LightningDataModule):
         ])
 
     def setup(self, stage=None):
-        dataset_path = Path("C:/Users/Antonina/PycharmProjects/zpo_panele_psy_pyth12/dane2")
-        #dataset_path = Path("D:/panele_baza/ign/dane3")
-        #dataset_path = Path("C:/Users/Antonina/PycharmProjects/zpo_panele_psy/dane5")
+        dataset_path = Path("path/to/your/dataset")
         train_paths = sorted((dataset_path / 'train' / 'images').glob('*.png'))
         test_paths = sorted((dataset_path / 'test' / 'images').glob('*.png'))
 
