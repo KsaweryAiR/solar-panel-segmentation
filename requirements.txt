@@ -1,11 +1,12 @@
 torch
 torchvision
-lightning neptune
+lightning
 segmentation-models-pytorch
 torchmetrics
 numpy
-albumentations
-opencv-python
+albumentation
 matplotlib
 Pillow
 scikit-learn
+neptune
+neptune-lightning
