@@ -75,6 +75,64 @@ Najbardziej obawialiśmy się problemów z rozróżnianiem okien dachowych, poni
 * **Ortofotomapa:** Poznan 2022 aerial ortophoto high resolution
 * **Lokalizacja:** zachodnia część Poznania, na zachód rzeki Warty. Wrocław, Biskupin i okolice
 
+## 📌 Instrukcja uruchomienia  
+
+### **1️⃣ Przygotowanie danych**  
+Otwórz plik **`datamodulepanels.py`** i w oznaczonym miejscu wpisz ścieżkę do folderu zawierającego obrazy do trenowania.  
+Następnie uruchom plik:  
+
+```bash
+python datamodulepanels.py
+```
+
+---
+
+### **2️⃣ Trenowanie modelu**  
+Po przygotowaniu danych uruchom proces trenowania modelu, wykonując:  
+
+```bash
+python train.py
+```
+
+Model zostanie zapisany jako **checkpoint** w folderze wyjściowym.  
+
+---
+
+### **3️⃣ Eksport modelu do ONNX**  
+Po zakończeniu treningu otwórz **`evaluate.py`** i w wyznaczonym miejscu wpisz ścieżkę do pliku checkpointu z wytrenowanym modelem.  
+Następnie uruchom skrypt, aby wyeksportować model do formatu **ONNX**:  
+
+```bash
+python evaluate.py
+```
+
+Model zostanie zapisany jako plik `.onnx`.  
+
+---
+
+### **4️⃣ Przygotowanie modelu do użycia w QGIS**  
+W pliku **`output_model.py`** podaj ścieżkę do wygenerowanego modelu ONNX, a następnie uruchom skrypt:  
+
+```bash
+python output_model.py
+```
+
+---
+
+### **5️⃣ Wykorzystanie modelu w QGIS**  
+Otrzymany plik **ONNX** można załadować do **QGIS** i wykorzystać w **wtyczce Deepness** do segmentacji paneli fotowoltaicznych.  
+
+---
+
+## 📦 Wymagania  
+Przed uruchomieniem projektu zainstaluj wymagane biblioteki:  
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
 ### Osoby
 
 * Antonina Frąckowiak
