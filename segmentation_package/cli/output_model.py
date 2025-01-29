@@ -1,7 +1,8 @@
 import json
 import onnx
 
-model_path = 'path/to/your/model'
+# TO DO: Replace the path with your ONNX model path
+model_path = 'path/to/your/model'  # <-- Replace this line with your ONNX model path
 model = onnx.load(model_path)
 
 class_names = {
