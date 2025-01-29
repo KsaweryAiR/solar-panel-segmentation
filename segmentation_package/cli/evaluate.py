@@ -9,7 +9,8 @@ if __name__ == "__main__":
     data_module.setup()
 
     # Wybierz model
-    checkpoint_path = "checkpoint/path"
+    # TO DO: Replace the path with your checkpoint path
+    checkpoint_path = "checkpoint/path"  # <-- Replace this line with your checkpoint path
     model = LitModel.load_from_checkpoint(checkpoint_path).eval().cpu()
     x = torch.rand(1, 3, 256, 256)
     _ = model(x)
